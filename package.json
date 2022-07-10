@@ -10,7 +10,7 @@
     "build": "npx tsc",
     "setup": "npm i -D @types/jest jest ts-jest ts-standard typescript"
   },
-  "author": "Tobias Sandelius <iamsandelius@gmail.com>",
+  "author": "Your Name <your@email.com>",
   "license": "MIT",
   "keywords": [
     "typescript",
@@ -18,7 +18,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iamsandelius/skeleton.ts.git"
+    "url": "git+https://github.com/sandelius/skeleton.ts.git"
   },
   "devDependencies": {}
 }
