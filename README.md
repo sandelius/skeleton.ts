@@ -1,4 +1,4 @@
-# skeletor.ts
+# skeleton.ts
 
 Simple skeleton application for TypeScript Node programs.
 
