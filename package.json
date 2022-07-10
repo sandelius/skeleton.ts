@@ -1,0 +1,24 @@
+{
+  "name": "skeletor.ts",
+  "version": "1.0.0",
+  "description": "Simple skeleton application for TypeScript Node programs.",
+  "main": "build/index.js",
+  "types": "build/index.d.ts",
+  "scripts": {
+    "test": "npx jest test",
+    "lint": "npx ts-standard ./src",
+    "build": "npx tsc",
+    "setup": "npm i -D @types/jest jest ts-jest ts-standard typescript"
+  },
+  "author": "Tobias Sandelius <iamsandelius@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "typescript",
+    "skeleton"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamsandelius/skeletor.ts.git"
+  },
+  "devDependencies": {}
+}
